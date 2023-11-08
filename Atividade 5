@@ -17,14 +17,19 @@
     
     <div class="menus">
         <ul class="lita">
-        Baleias
-        Golfinhos
-        Tubarão
-        Carpa
-        Polvo
+            <table border="1">
+        <tr>
+        <td>Baleias</td>
+        <td>Golfinhos</td>
+    </tr>
+    <tr>
+        <td>Tubarão</td>
+        <td>Carpa</td>
+       
+    </tr>
+            </table>
         </ul>
     </div>
     </header>
 </body>
 </html>
-
